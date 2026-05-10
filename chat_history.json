@@ -1,0 +1,78 @@
+[
+  {
+    "role": "developer",
+    "content": "You are a concise helpful assistant. Answer clearly and practically."
+  },
+  {
+    "role": "developer",
+    "content": "You are a concise helpful assistant. Answer clearly and practically."
+  },
+  {
+    "role": "developer",
+    "content": "You are a concise helpful assistant. Answer clearly and practically."
+  },
+  {
+    "role": "developer",
+    "content": "You are a concise helpful assistant. Answer clearly and practically."
+  },
+  {
+    "role": "developer",
+    "content": "You are a concise helpful assistant. Answer clearly and practically."
+  },
+  {
+    "role": "developer",
+    "content": "You are a concise helpful assistant. Answer clearly and practically."
+  },
+  {
+    "role": "developer",
+    "content": "You are a concise helpful assistant. Answer clearly and practically."
+  },
+  {
+    "role": "user",
+    "content": "who is khamzat chimaev"
+  },
+  {
+    "role": "assistant",
+    "content": "Khamzat Chimaev is a Swedish mixed martial artist of Chechen and Swedish descent. He competes in the UFC, primarily in the welterweight and middleweight divisions. Known for his aggressive fighting style and grappling skills, he gained prominence by winning multiple fights in the UFC quickly, establishing himself as a top contender."
+  },
+  {
+    "role": "user",
+    "content": "what is his professional record"
+  },
+  {
+    "role": "assistant",
+    "content": "As of October 2023, Khamzat Chimaev's professional MMA record is 12 wins, 0 losses, and 1 draw."
+  },
+  {
+    "role": "user",
+    "content": "what is his weight class"
+  },
+  {
+    "role": "assistant",
+    "content": "Khamzat Chimaev primarily competes in the UFC's welterweight division (170 pounds). He has also fought in the middleweight division (185 pounds)."
+  },
+  {
+    "role": "user",
+    "content": "whom is fought last"
+  },
+  {
+    "role": "assistant",
+    "content": "As of October 2023, Khamzat Chimaev's most recent fight was against Kamaru Usman at UFC 294 on October 21, 2023. He won the bout via submission."
+  },
+  {
+    "role": "user",
+    "content": "what kind of submission"
+  },
+  {
+    "role": "assistant",
+    "content": "Khamzat Chimaev won the fight against Kamaru Usman by submission via a D'Arce choke."
+  },
+  {
+    "role": "user",
+    "content": "who invented this choke"
+  },
+  {
+    "role": "assistant",
+    "content": "The D'Arce choke, also known as the Brabo choke, was popularized by American mixed martial artist and Brazilian Jiu-Jitsu practitioner Moa T. \"Mo\" D'Arce. It is named after him and is a commonly used submission in Brazilian Jiu-Jitsu and MMA."
+  }
+]
