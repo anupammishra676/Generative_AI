@@ -9,7 +9,7 @@ embedding = OpenAIEmbeddings(model = 'text-embedding-3-large', dimensions= 300)
 
 documents = [
     "virat kohli is an indian cricketer know for his aggressive batin and leadership",
-    "MS dhoni is a former indian captain famous for his calm demeanor and finishing skilss",
+    "MS dhoni is a former indian captain famous for his calm demeanor and finishing skils",
     "Sachin Tendulakar, also known as 'god of cricket',  holds many batting records",
     "Rohit Sharma is know for his elegant batting and record-breaking doule centuries",
     "Jaspit bumrah is an indian fast bowler known for unorthodo action and yorkers"
