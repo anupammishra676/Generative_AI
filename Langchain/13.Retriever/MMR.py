@@ -31,5 +31,5 @@ query = "Where is langchain?"
 results = retriever.invoke(query)
 
 for i, doc in enumerate(results):
-    print(f"\n---Result{i+1}---")
+    print(f"\n---Result{i+1}---") 
     print(f"Content:\n {doc.page_content}")
