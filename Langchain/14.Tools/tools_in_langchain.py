@@ -13,4 +13,4 @@ print(search_tool.name)
 print(search_tool.description)
 print(search_tool.args)
 
-print(search_tool.args_schema.model_json_schema())
+print(search_tool.args_schema.model_json_schema()) # LLM Schema
